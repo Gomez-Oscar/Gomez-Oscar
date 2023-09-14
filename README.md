@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
+<h1 align="center">Hi 👋, I'm Oscar Gomez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
+
+- 🔭 I’m an electronic engineer from the university of Antioquia
+
+- 🌱 I’m currently learning frontend development at MAKAIA corporation
+  
+- 🌱 I’m great at English and I'd like to learn French too
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
